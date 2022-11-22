@@ -12,3 +12,5 @@
 @import "./home/depoimento.css";
 /*Biciletas*/
 @import "./bicicletas/bicicletas-listas.css";
+/*SEguros*/
+@import "./seguros/seguros.css";
