@@ -3,6 +3,8 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 @import "./global/header.css";
+/*Footer*/
+@import "./global/footer.css";
 /*Botão - Utilidades*/
 @import "./utilidades/componentes.css";
 /*HOME*/
